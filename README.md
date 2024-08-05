@@ -70,6 +70,10 @@ You Can Run Endpoints On Swagger That Is Accessible There
 
 <img src="img/apis.png" alt="logotype" width="100%"/>
 
+### API Results ᯓ★
+
+<img src="img/api-output.png" alt="logotype" width="100%"/>
+
 ### Environment Variables 🔐
 
 The API uses the following environment variables:
